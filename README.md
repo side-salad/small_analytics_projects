@@ -13,7 +13,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
    - **Highlights**: Data cleaning, exploratory data analysis, and visualizations in Jupyter Notebooks.
 
 3. **Insurance Churn Analysis**: 
-   - **Objective**: Group customers into segments based on purchase patterns and demographic data.
+   - **Objective**: Predict churn rates and provide actionable solutions for an insurance company.
    - **Tools Used**: Excel, SQL, MySQL, Tableau.
    - **Highlights**: Forecasted, queryed, and presented data findings in an interactive dashboard.
 
