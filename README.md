@@ -12,7 +12,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
    - **Objective**: Uncover insights on soil and climate conditions for optimizing crop productivity and resource planning.
    - **Tools Used**: Python (Seaborn, Matplotlib, Pandas), SQL, MySQL.
    - **Highlights**: Data cleaning, exploratory data analysis, and visualizations in Jupyter Notebooks.
-   - **Link to Visualization (check folder above for data and SQL queries)**: [Jupyter Notebook Visualizations](https://github.com/side-salad/data_analysis_portfolio/blob/main/Bangledesh%20Agriculture%20Analysis/agriculture_analysis_visuals.ipynb)
+   - **Link to Visualization (check folder above for data and SQL queries)**: [Click here for Jupyter Notebook Visualizations](https://github.com/side-salad/data_analysis_portfolio/blob/main/Bangledesh%20Agriculture%20Analysis/agriculture_analysis_visuals.ipynb)
 
 3. **Insurance Churn Analysis**: 
    - **Objective**: Predict churn rates and provide actionable solutions for an insurance company.
