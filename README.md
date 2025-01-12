@@ -6,7 +6,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
    - **Objective**: Group customers into segments based on purchase patterns and demographic data.
    - **Tools Used**: Excel, SQL, MySQL, Tableau.
    - **Highlights**: Data transformation, aggregation, and creating actionable insights with interactive visualizations.
-   - **Link to Visualization (check folder above for data and SQL queries)**: https://public.tableau.com/views/sales_visuals_17361863663490/FINALRFM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+   - **Link to Visualization (check folder above for data and SQL queries)**: [Click here for Tableau Visualization](https://public.tableau.com/views/sales_visuals_17361863663490/FINALRFM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
 2. **Agricultural Land Suitability Analysis**: 
    - **Objective**: Uncover insights on soil and climate conditions for optimizing crop productivity and resource planning.
@@ -17,6 +17,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
    - **Objective**: Predict churn rates and provide actionable solutions for an insurance company.
    - **Tools Used**: Excel, SQL, MySQL, Tableau.
    - **Highlights**: Forecasted, queried, and presented data findings in an interactive dashboard.
+   - **Link to Visualization (check folder above for data and SQL queries)**: [Click here for Tableau Visualization](https://public.tableau.com/views/insurance_churn_visuals/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Skills Highlighted
 - Data Cleaning and Transformation (Pandas, SQL, Excel)
