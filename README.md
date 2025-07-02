@@ -1,5 +1,5 @@
-# Bikrum's Data Analysis Portfolio 2024
-Welcome to my Data Analysis Portfolio! This repository showcases a collection of projects that highlight my skills in data cleaning, exploration, visualization, and modeling. Each project is designed to address real-world problems and demonstrate my ability to work with diverse datasets and tools.
+# Data Analysis Projects
+This repository showcases a collection of projects that highlight my skills in data cleaning, exploration, visualization, and modeling. Each project is designed to address real-world problems and demonstrate my ability to work with diverse datasets and tools.
 
 ## Projects Included
 1. **Sales RFM Analysis**: 
