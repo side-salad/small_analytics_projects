@@ -26,6 +26,3 @@ This repository showcases a collection of projects that highlight my skills in d
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis and Hypothesis Testing
 - Working with Relational Databases and Writing SQL Queries
-
-## About Me
-I am an entry-level data analyst with a background in fashion design and a passion for leveraging data to solve problems creatively. My projects aim to combine analytical rigor with an eye for presentation, ensuring insights are both actionable and visually appealing. I specialize in working with complex datasets and crafting compelling stories through data.
