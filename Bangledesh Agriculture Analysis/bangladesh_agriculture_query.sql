@@ -45,7 +45,7 @@ WHERE Season NOT IN ('Summer', 'Winter', 'Spring', 'Autumn', 'Monsoon'); -- Chec
 
 SELECT *
 FROM bangladesh_agriculture
-WHERE Average_Rainfall_mm < 0 OR Temperature_C < -50 OR Temperature_C > 50; -- Check for invalid extreme values
+WHERE Average_Rainfall_mm < 0 OR Temperature_C < -50 OR Temperature_C > 50; -- Check for invalid values, too high or too low
 
 SELECT 
     COUNT(*) AS total_rows,
